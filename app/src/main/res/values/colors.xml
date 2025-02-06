@@ -2,4 +2,20 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Light theme -->
+    <color name="background">#FFEFF1F5</color>
+    <color name="secondary_pane">#FFE6E9EF</color>
+    <color name="surface_elements">#FFACB0BE</color>
+    <color name="overlays">#FF7C7F93</color>
+    <color name="text">#FF4C5F69</color>
+    <color name="links">##FF1E66F5</color>
+
+    <!-- Dark theme -->
+    <color name="background_dark">#FF1E1E2E</color>
+    <color name="secondary_pane_dark">#FF181825</color>
+    <color name="surface_elements_dark">#FF585B70</color>
+    <color name="overlays_dark">#FF9399B2</color>
+    <color name="text_dark">#FFCDD6F4</color>
+    <color name="links_dark">#FF89B4FA</color>
 </resources>
